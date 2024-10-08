@@ -1,8 +1,8 @@
 # Hi there 👋
-## This is Vallimayl V from EEE second year. pronouns: she/her.
-### I have interests in robotics, computer vision, competitive programming, open-sourcing, ML, embedded systems and electronics (but not restricted only to these domains) and still I'm exploring these domains.
+## This is Vallimayl V from EEE final year. pronouns: she/her.
+### I have interests in Digital design, verification, Microarchitecture, Physical design and other relevant fields in the domain.
+Reach me at: vallimaylvalliappan@gmail.com
 I love to explore all field related to STEM.
-I hope I'll learn a lot about all the tech domains in the upcoming days.
 
 <!--
 **vallimaylv/vallimaylv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
